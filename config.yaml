@@ -1,0 +1,26 @@
+baseURL: 
+languageCode: en-us
+title: Antoine-Alexandre André
+theme: yourfolio
+disableKinds: [RSS, taxonomy, taxonomyTerm]
+googleAnalytics: UA-XXXXX-Y
+
+# Menu items
+menu:
+  main:
+  - name: About me
+    weight: 1
+    url: /about
+  - name: Projects & Research
+    weight: 2
+    url: /projects 
+  - name: Contact me
+    weight: 3
+    url: /contact 
+
+
+# Custom params
+params:
+  env: development
+  logoImage: img/logo.png
+  logoImageAlt: Yourfolio Theme brand logo
