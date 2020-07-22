@@ -27,7 +27,7 @@ text_groups:
   - name: Languages
     description: <p><span class="default-text bold-text">- French</span></p></p><span class="default-text italic-text">Native speaker</span></p><br/><p><span class="default-text bold-text">- English</span></p></p><span class="default-text italic-text">Full professional proficiency</span></p><br/><p><span class="default-text bold-text">- Dutch</span></p></p><span class="default-text italic-text">Full professional proficiency</span></p>
   - name: 
-    description: <a class="blue-text bold-text" href="mailto:antoine.alexandre.andre@hotmail.com">Get in touch</a></p>
+    description: © Antoine-Alexandre André
     class: line
 ---
 
