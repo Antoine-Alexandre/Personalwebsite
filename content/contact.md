@@ -17,7 +17,7 @@ text_groups:
   - name: Email
     description: <a class="blue-text bold-text" href="mailto:antoine.alexandre.andre@hotmail.com">antoine.alexandre.andre@hotmail.com</a></p>
   - name: Social networks
-    description: <a class="blue-text bold-text" href="www.linkedin.com/in/antoine-alexandre-andré">LinkedIn</a></p><br/><a class="blue-text bold-text" href="https://github.com/Antoine-Alexandre">GitHub</a></p>
+    description: <a class="blue-text bold-text" href="www.linkedin.com/in/antoine-alexandre-andré">LinkedIn</a>, <a class="blue-text bold-text" href="https://github.com/Antoine-Alexandre">GitHub</a>
   - name: Phone
     description: (+32) 473 78 07 63
   - name: 
