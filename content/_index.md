@@ -29,19 +29,6 @@ projects:
       - options: 848x443
       - options: 565x420
       - options: 360x318 Left
-  - title: Personal Data Analyzers
-    type: Project
-    link: /projects
-    class: short-col
-    image:
-      url: works/whatsapp.PNG
-      alt: Data visualization
-      media: "(max-width: 46.25em)"
-      params:
-      - options: 364x590 Top
-      - options: 848x443 Top
-      - options: 565x420
-      - options: 360x318
   - title: Garden Network
     type: Project
     link: /projects
@@ -55,4 +42,17 @@ projects:
       - options: 848x443 Top
       - options: 565x420 Left
       - options: 360x318 Center
+  - title: Personal Data Analyzers
+    type: Project
+    link: /projects
+    class: short-col
+    image:
+      url: works/whatsapp.PNG
+      alt: Data visualization
+      media: "(max-width: 46.25em)"
+      params:
+      - options: 364x590 Top
+      - options: 848x443 Top
+      - options: 565x420
+      - options: 360x318
 ---
