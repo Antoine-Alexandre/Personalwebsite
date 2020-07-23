@@ -17,7 +17,7 @@ text_groups:
   - name: Intro
     description: Every day I wake up and I try to make sense of the world we live in. Graduated in both political and economic science, I firmly believe in the importance of cross-sectional analysis to understand policies and regulations adopted at national and international level.<br/><br/> I'm interested in a wide range of subjects including international relations, circular economy and everything related to information and communication technologies. I use data science on a daily basis and I'm passionate about the creation of data narratives. On the other hand, I am a strong advocate of the need to protect personal data and promote citizens' fundamental freedoms in the digital world.
 projects:
-  - title: Always looking up.
+  - title: Always looking up
     type: About me
     link: /about
     image:
