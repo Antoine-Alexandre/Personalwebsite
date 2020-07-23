@@ -14,12 +14,10 @@ header:
       "565": img/contact_565x420.png
       "360": img/contact_360x318.png
 text_groups:
-  - name: Email
+  - name: Get in touch
     description: <a class="blue-text bold-text" href="mailto:antoine.alexandre.andre@hotmail.com">antoine.alexandre.andre@hotmail.com</a></p>
   - name: Social networks
     description: <a class="blue-text bold-text" href="https://www.linkedin.com/in/antoine-alexandre-andr%C3%A9/">LinkedIn</a>, <a class="blue-text bold-text" href="https://github.com/Antoine-Alexandre">GitHub</a>
-  - name: Phone
-    description: (+32) 473 78 07 63
   - name: 
     description: © Antoine-Alexandre André
     class: line
