@@ -16,7 +16,7 @@ header:
 text_groups:
   - name: Get in touch
     description: <a class="blue-text bold-text" href="mailto:antoine.alexandre.andre@hotmail.com">antoine.alexandre.andre@hotmail.com</a></p>
-  - name: Social networks
+  - name: You can also find me on
     description: <a class="blue-text bold-text" href="https://www.linkedin.com/in/antoine-alexandre-andr%C3%A9/">LinkedIn</a>, <a class="blue-text bold-text" href="https://github.com/Antoine-Alexandre">GitHub</a>
   - name: 
     description: © Antoine-Alexandre André
