@@ -1,6 +1,6 @@
 baseURL: https://jovial-hugle-5695c8.netlify.app/
 languageCode: en-us
-title: 
+title: Antoine-Alexandre
 theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 googleAnalytics: UA-XXXXX-Y
