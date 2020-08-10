@@ -1,6 +1,6 @@
 baseURL: https://antoine-alexandre.com/
 languageCode: en-us
-title: Antoine-Alexandre
+title: Antoine-Alexandre André
 theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 googleAnalytics: UA-XXXXX-Y
