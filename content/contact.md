@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 
 date: 
 draft: false
 description: 

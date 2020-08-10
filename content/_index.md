@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: 
 date: 
 draft: false
 description: 

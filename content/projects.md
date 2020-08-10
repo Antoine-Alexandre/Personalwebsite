@@ -1,5 +1,5 @@
 ---
-title: Projects & Research
+title: 
 date: 
 draft: false
 description: 
