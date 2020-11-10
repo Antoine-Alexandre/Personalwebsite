@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: Currently working as a <span class="blue-text">DPO</span>, I'm passionate about <span class="blue-text">European politics</span> and <span class="blue-text">international economics</span>.
+  description: Currently working as a <span class="blue-text">DPO</span>, I'm passionate about <span class="blue-text">European politics</span> and <span class="blue-text">international cooperation</span>.
   image:
     url: img/profile_img.png
     alt_text: Statistics
