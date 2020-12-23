@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: Currently working as a <span class="blue-text">DPO / ISA</span>, I'm passionate about <span class="blue-text">European politics</span> and <span class="blue-text">data visualization</span>.
+  description: Currently working as a <span class="blue-text">DPO / ISA</span>, I'm passionate about <span class="blue-text">international politics</span> and <span class="blue-text">data visualization</span>.
   image:
     url: img/profile_img.png
     alt_text: Statistics
