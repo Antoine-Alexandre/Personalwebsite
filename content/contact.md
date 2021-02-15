@@ -13,6 +13,7 @@ header:
       "848": img/contact_848x443.png
       "565": img/contact_565x420.png
       "360": img/contact_360x318.png
+
 text_groups:
   - name: Get in touch
     description: <a class="blue-text bold-text" href="mailto:antoine.alexandre.andre@hotmail.com">antoine.alexandre.andre@hotmail.com</a></p>
