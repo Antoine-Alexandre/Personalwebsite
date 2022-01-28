@@ -18,6 +18,6 @@ text_groups:
   - name: Get in touch
     description: <a class="blue-text bold-text">antoine.alexandre.andre(at)hotmail.com</a>
   - name: 
-    description: © Antoine-Alexandre André
+    description: © Antoine-Alexandre André - using [Hugo](https://gohugo.io/) and [Yourfolio](https://github.com/serg/yourfolio)
     class: line
 ---

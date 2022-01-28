@@ -27,7 +27,7 @@ text_groups:
   - name: Digital skills
     description: <p><span class="default-text bold-text">- R</span></p><p><span class="default-text bold-text">- SQL</span></p><p><span class="default-text bold-text">- Microsoft Office</span></p><p><span class="default-text bold-text">- Basics in web development</span></p><p><span class="default-text bold-text">- Basics in Photoshop / InDesign</span></p><p><span class="default-text bold-text">...</span></p>
   - name:
-    description: © Antoine-Alexandre André
+    description: © Antoine-Alexandre André - using [Hugo](https://gohugo.io/) and [Yourfolio](https://github.com/serg/yourfolio)
     class: line
 ---
 
