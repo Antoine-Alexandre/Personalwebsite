@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: Currently working for the <span class="blue-text">European Commission</span>, I'm passionate about <span class="blue-text">European politics</span> and <span class="blue-text">policy making</span>.
+  description: Currently working for the <span class="blue-text">European Commission</span>, I'm passionate about <span class="blue-text">technologies</span> and <span class="blue-text">European politics</span>.
   image:
     url: img/profile_img.png
     alt_text: Statistics
