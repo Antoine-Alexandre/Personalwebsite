@@ -8,7 +8,7 @@ googleAnalytics: UA-XXXXX-Y
 # Menu items
 menu:
   main:
-  - name: About<span class="blue-text">.</span>
+  - name: About.
     weight: 1
     url: /about
   - name: Contact.
