@@ -25,7 +25,7 @@ text_groups:
   - name: Languages
     description: <p><span class="default-text bold-text">- French</span></p></p><span class="default-text italic-text">Native speaker</span></p><br/><p><span class="default-text bold-text">- English</span></p></p><span class="default-text italic-text">Full professional proficiency</span></p><br/><p><span class="default-text bold-text">- Dutch</span></p></p><span class="default-text italic-text">Professional working proficiency</span></p>
   - name: Digital skills
-    description: <p><span class="default-text bold-text">- R</span></p><p><span class="default-text bold-text">- SQL</span></p><p><span class="default-text bold-text">- Microsoft Office</span></p><p><span class="default-text bold-text">- Basics in web development</span></p><p><span class="default-text bold-text">- Basics in Photoshop / InDesign</span></p><p><span class="default-text bold-text">...</span></p>
+    description: <p><span class="default-text bold-text">- R</span></p><p><span class="default-text bold-text">- SQL</span></p><p><span class="default-text bold-text">- Microsoft Office</span></p><p><span class="default-text bold-text">- Canva</span></p><p><span class="default-text bold-text">- Basics in web development</span></p><p><span class="default-text bold-text">- Basics in Photoshop / InDesign</span></p><p><span class="default-text bold-text">...</span></p>
   - name:
     description: © Antoine-Alexandre André - using <a class="blue-text bold-text" href="https://gohugo.io/">Hugo</a> and <a class="blue-text bold-text" href="https://github.com/serg/yourfolio">Yourfolio</a>
     class: line
