@@ -15,8 +15,8 @@ header:
       "360": img/contact_360x318.png
 
 text_groups:
-  - name: Get in touch
-    description: <a class="blue-text bold-text">antoine.alexandre.andre(at)hotmail.com</a>
+  - name: Send me a message on
+    description: <a class="blue-text bold-text" href="https://www.linkedin.com/in/antoine-alexandre-andré/">LinkedIn</a>
   - name: 
     description: © Antoine-Alexandre André - using <a class="blue-text bold-text" href="https://gohugo.io/">Hugo</a> and <a class="blue-text bold-text" href="https://github.com/serg/yourfolio">Yourfolio</a>
     class: line
