@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: Hi, my name's <span class="blue-text">Antoine-Alexandre</span>. I'm a <span class="blue-text">creative</span> and <span class="blue-text">multidisciplinary</span> young <span class="blue-text">professional</span> based in Brussels.
+  description: Hi, my name's <span class="blue-text">Antoine-Alexandre</span>. I'm a <span class="blue-text">creative</span> and <span class="blue-text">multidisciplinary</span> multidisciplinary <span class="blue-text">professional</span> based in Brussels.
   image:
     url: img/home_img.png
     alt_text: Brussels
