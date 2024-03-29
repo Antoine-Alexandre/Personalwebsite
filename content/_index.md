@@ -15,13 +15,13 @@ header:
       "360": img/home_360x318.png
 text_groups:
   - name: Connecting the dots
-    description: Every day I wake up and I try to make sense of the world we live in. Graduated in both political and economic science, I firmly believe in the importance of cross-sectional analysis to understand policies and regulations adopted at national and international level.<br/><br/> I'm interested in a wide range of subjects including artificial intelligence, digital economy, innovation policies, ICT law, philosophy and international relations. Also, as a former researcher in economics, I'm passionate about data analysis. On the other hand, I am a strong advocate of the need to protect and promote fundamental rights in the digital world.
+    description: Every day I wake up and I try to make sense of the world we live in. Graduated in both political and economic science, I firmly believe in the importance of cross-sectional analysis to understand policies and regulations adopted at national and international level.<br/><br/> I'm interested in a wide range of subjects including artificial intelligence, digital economy, ICT law, innovation policies, philosophy and international relations. Also, as a former researcher in economics, I'm passionate about data analysis. On the other hand, I am a strong advocate of the need to protect and promote fundamental rights in the digital world.
 projects:
-  - title: Always looking up
-    type: About me
+  - title: Questioning the status quo
+    type: Find out more about me
     link: /about
     image:
-      url: works/strato.png
+      url: works/confiance2024.jpg
       alt: Antoine-Alexandre André
       media: "(max-width: 46.25em)"
       params:
