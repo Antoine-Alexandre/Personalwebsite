@@ -16,8 +16,8 @@ header:
 
 
 text_groups:
-  - name: Send me a message
-    description: <span class="default-text italic-text">Click </span><a class="blue-text bold-text" href="mailto:antoine-alexandre.andre@etik.com">here</a>
+  - name: Send me an email
+    description: Click <a class="blue-text bold-text" href="mailto:antoine-alexandre.andre@etik.com">here</a>
   - name: 
     description: © Antoine-Alexandre André - using <a class="blue-text bold-text" href="https://gohugo.io/">Hugo</a> and <a class="blue-text bold-text" href="https://github.com/serg/yourfolio">Yourfolio</a>
     class: line
