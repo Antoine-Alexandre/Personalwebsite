@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: Every great <span class="blue-text">idea</span> starts with a <span class="blue-text">conversation</span>, drop me a line and let's create something <span class="blue-text">together</span>.
+  description: Every great idea starts with a <span class="blue-text">conversation</span>, drop me a line and let's create something together.
   image:
     url: img/contact_img.png
     alt_text: Cup of coffee

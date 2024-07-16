@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: Currently working for the <span class="blue-text">European AI Office</span>, I'm passionate about the impacts of <span class="blue-text">technologies</span> on <span class="blue-text">societies</span>. 
+  description: Currently part of the <span class="blue-text">AI Office</span>, I'm passionate about the impacts of technologies on societies. 
   image:
     url: img/profile_img.png
     alt_text: Statistics

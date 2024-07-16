@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: <p>Hi, my name's <span class="blue-text">Antoine-Alexandre</span>.</p> I'm a <span class="blue-text">creative thinker</span> who strives to <span class="blue-text">question</span> the status quo.
+  description: <p>Hi, I'm <span class="blue-text">Antoine-Alexandre</span>.</p> I'm a creative thinker working for the European Commission.
   image:
     url: img/home_img.png
     alt_text: Brussels
