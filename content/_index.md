@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: <p>Hi, I'm <span class="blue-text">Antoine-Alexandre</span>.</p> I'm a creative thinker working for the European Commission.
+  description: <p>Hi, I'm <span class="blue-text">Antoine-Alexandre</span>.</p> I'm a policy and legal officer working for the European Commission.
   image:
     url: img/home_img.png
     alt_text: Brussels
