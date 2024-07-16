@@ -15,7 +15,7 @@ header:
       "360": img/home_360x318.png
 text_groups:
   - name: Connecting the dots
-    description: Every day I wake up and I try to make sense of the world we live in. Graduated in political science, international economics and human rights law, I firmly believe in the importance of cross-sectional analysis to understand policies and regulations adopted at national and international level.<br/><br/> I'm interested in a wide range of subjects including artificial intelligence, digital economy, ICT law, innovation policies, philosophy and international relations. Also, as a former researcher in economics, I'm passionate about data analysis. On the other hand, I am a strong advocate of the need to protect and promote fundamental rights in the digital world.
+    description: Every day I wake up and I try to make sense of the world we live in. Graduated in political science, international economics and human rights law, I firmly believe in the importance of cross-sectional analysis to understand policies and regulations adopted at national and international level.<br/><br/> I'm interested in a wide range of subjects including ICT law, digital economy, innovation policies, philosophy and international relations. Also, as a former researcher in economics, I'm passionate about data analysis. On the other hand, I am a strong advocate of the need to protect and promote fundamental rights in the digital world.
   - name: 
     description: © Antoine-Alexandre André - using <a class="blue-text bold-text" href="https://gohugo.io/">Hugo</a> and <a class="blue-text bold-text" href="https://github.com/serg/yourfolio">Yourfolio</a>
     class: line
