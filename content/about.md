@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: Currently attached to the <span class="blue-text">AI Office</span>, I'm passionate about the impacts of technologies on societies. 
+  description: Currently attached to the <span class="blue-text">AI Office</span>, I'm passionate about the impacts of technologies on society. 
   image:
     url: img/profile_img.png
     alt_text: Statistics
