@@ -15,7 +15,7 @@ header:
       "360": img/home_360x318.png
 text_groups:
   - name: Connect the dots
-    description: Every day I wake up and I try to make sense of the world we live in. Graduated in political science, international economics and human rights law, I firmly believe in the importance of cross-sectional analysis to understand policies and regulations adopted at national and international level.<br/><br/> I'm interested in a wide range of subjects including ICT law, digital economy, innovation policies, philosophy and international relations. I'm also passionate about data analysis. On the other hand, I am a strong advocate of the need to reflect on the ever-growing use of technologies and to protect and promote fundamental rights in the digital world.
+    description: Every day I wake up and I try to better understand the world we live in. As one of the lead member of the team that designed and is currently implementing EU’s AI strategy, I firmly believe in the importance of bringing together different fields of study to drive an appropriate and beneficial use of AI in society.<br/><br/> I'm interested in a wide range of subjects including ICT law, digital economy, innovation policies, philosophy and international relations. I'm also passionate about data analysis. On the other hand, I am a strong advocate of the need to reflect on the ever-growing use of technologies and to protect and promote fundamental rights in the digital world.
   - name: Get in touch
     description: Send me a message on <a class="blue-text bold-text" href="https://be.linkedin.com/in/antoine-alexandre-andré">LinkedIn</a> or contact me by <a class="blue-text bold-text" href="mailto:antoine-alexandre.andre@etik.com">email</a>.
   - name: 
