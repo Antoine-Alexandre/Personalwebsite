@@ -11,10 +11,6 @@ menu:
   - name: About
     weight: 1
     url: /about
-  - name: Research projects
-    weight: 2
-    url: /research projects
-
 
 # Custom params
 params:
