@@ -5,7 +5,7 @@ draft: false
 description: 
 
 header:
-  description: <p>Hi, I'm <span class="blue-text">Antoine-Alexandre</span>.</p> I am a researcher and policymaker</p> in AI.</p>
+  description: <p>Hi, I'm <span class="blue-text">Antoine-Alexandre</span>.</p> I am a researcher and</p> <span class="blue-text">policymaker</span> in AI.</p>
   image:
     url: img/home_img.png
     alt_text: Brussels
